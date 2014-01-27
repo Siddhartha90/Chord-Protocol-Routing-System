@@ -1,3 +1,8 @@
 Visit:
-http://web.engr.illinois.edu/~gupta49/CS425.html (No longer active because I graduated :/)
+http://siddhartha.herokuapp.com/CS425.html
 for details
+
+
+Implementation of various chord functions. Based on the paper: 
+Chord: A Scalable Peer to peer lookup Service for Internet Applications: 
+http://pdos.csail.mit.edu/papers/chord:sigcomm01/ 
