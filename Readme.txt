@@ -1,5 +1,5 @@
 Visit:
-http://siddhartha.herokuapp.com/CS425.html
+http://siddhartha.herokuapp.com/CS425
 for details
 
 
